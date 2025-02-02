@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **react, js, python**
+- 💬 Ask me about **React.js, jJavascript, python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
